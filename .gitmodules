@@ -1,0 +1,3 @@
+[submodule "TodoApp"]
+	path = TodoApp
+	url = https://github.com/paolomostardi/TodoApp.git
